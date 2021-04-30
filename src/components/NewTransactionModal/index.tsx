@@ -12,7 +12,7 @@ interface NewTransactionModalProps{
 }
 
 export function NewTransactionModal({isOpen, onRequestClose}: NewTransactionModalProps){
-  const [type, setType] = useState('deposit');
+  const [type, setType] = useState('deposit');//setar o tipo de transação
 
   
 
