@@ -1,3 +1,5 @@
+Criado para calcular as entradas e saidas de sua vida financeira.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
